@@ -20,3 +20,5 @@ This project detects malicious network traffic using a Random Forest model train
 - Run all the cells step by step
 
 ✅ That’s it! You now have a working IDS using machine learning.
+
+Author:(Mohammedroshan M Mulla)
